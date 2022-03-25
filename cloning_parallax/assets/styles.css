@@ -1,0 +1,191 @@
+@charset "utf-8";
+
+.container {
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	background-image: url(../images/dna_background.jpg);
+	padding: 50px;
+} 
+
+#step1pt1 {
+	background: url(../images/steps/cloning_step1_pt1.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 110vh;
+	width: 100%;
+}
+#step1pt2 {
+	background: url(../images/steps/cloning_step1_pt2.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 80vh;
+	width: 100%;
+}
+
+#step1pt3 {
+	background: url(../images/steps/cloning_step1_pt3.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 80vh;
+	width: 100%;
+}
+
+#step2pt1 {
+	background: url(../images/steps/cloning_step2_pt1.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 110vh;
+	width: 100%;
+}
+
+#step2pt2 {
+	background: url(../images/steps/cloning_step2_pt2.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 80vh;
+	width: 100%;
+}
+
+#step2pt3 {
+	background: url(../images/steps/cloning_step2_pt3.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 80vh;
+	width: 100%;
+}
+
+#step3pt1 {
+	background: url(../images/steps/cloning_step3_pt1.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 80vh;
+	width: 100%;
+}
+
+#step3pt2 {
+	background: url(../images/steps/cloning_step3_pt2.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 80vh;
+	width: 100%;
+}
+
+#step3pt3 {
+	background: url(../images/steps/cloning_step3_pt3.png) no-repeat center;
+	background-size: 100% auto; 
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 80vh;
+	width: 100%;
+}
+
+#step4pt1 {
+	background: url(../images/steps/cloning_step4_pt1.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 120vh;
+	width: 100%;
+}
+
+#step4pt2 {
+	background: url(../images/steps/cloning_step4_pt2.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 120vh;
+	width: 100%;
+}
+
+#step5pt1 {
+	background: url(../images/steps/cloning_step5_pt1.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 120vh;
+	width: 100%;
+}
+
+#step5pt2 {
+	background: url(../images/steps/cloning_step5_pt2.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 100vh;
+	width: 100%;
+}
+
+#step5pt3 {
+	background: url(../images/steps/cloning_step5_pt3.png) no-repeat center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	background-position: bottom; 
+	height: 100vh;
+	width: 100%;
+}
+
+.additional, .additional p {
+	background-color: #73ECC4;
+	padding: 25px;
+}
+
+h1 {
+	background-color: #489CC4;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 30pt;
+	text-align: center;
+    color: aliceblue;
+}
+
+h2 {
+	background-color: #489CC4;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 25pt;
+	text-align: center;
+    color: aliceblue;
+}
+
+p {
+	background-color: #61A7C8;
+	font-family: ocr-a-std, monospace;
+	font-weight: 400;
+	font-style: normal;
+	padding: 20px;
+	text-align: center;
+	font-size: 14pt;
+}
+
+#creator {
+	color: #960000;
+	font-size: 16pt;
+}
+
+a:link {
+	color: #0D25A2;
+	text-decoration: underline;
+}
+a:visited {
+	text-decoration: underline;
+	color: #BE36B6;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:active {
+	text-decoration: underline;
+	color: #068A7A;
+}
